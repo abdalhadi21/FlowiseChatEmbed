@@ -96,7 +96,7 @@ export type LeadsConfig = {
   successMessage?: string;
 };
 
-const defaultWelcomeMessage = 'Hi there! How can I help?';
+const defaultWelcomeMessage = 'Hi there! I am Nova, How can I help?';
 
 /*const sourceDocuments = [
     {
